@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Maria Niño-Suastegui — Portfolio Starter
 
 A responsive, single-page portfolio built with plain HTML, CSS, and JavaScript. It publishes on GitHub Pages without a build step.
@@ -60,4 +59,3 @@ The palette uses warm cream, brick red, terracotta, olive, forest green, and dee
 =======
 # portfolio
 Maria's creative portfolio
->>>>>>> 24da11141aae5bcaab1a2eed411a4ce123e8d007
